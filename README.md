@@ -100,4 +100,4 @@ Check last year website: https://wikifactory.com/+fablabo/studio-5-2021/files/St
 
 
 
-[PCB for Designers LOGO](../image/pcb4d-logo.jpg)
+[PCB for Designers LOGO](/pcb4d-logo.jpg)
