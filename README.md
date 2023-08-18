@@ -32,10 +32,10 @@ Within the design challenge, students will learn the basic skills required to de
 
 ### How?
 
-* Demystify electronics &gt; anyone can learn how it works and make it
-* Learn what each component does &gt; design a circuit
-* Make a circuit out of raw copper and components \(no pre-made Arduinos\)
-* Program your circuit to do something &gt; less than 10 lines of code
+* Demystify electronics: anyone can learn how it works and make it
+* Learn what each component does: design a circuit
+* Make a circuit out of raw copper and components (no pre-made Arduinos)
+* Program your circuit to do something: less than 10 lines of code
 
 
 
@@ -51,33 +51,11 @@ The final result is an input and output system with a programmed micro-controlle
 
 * Citizen science, urban nature, data collection.
 * Basic electronic circuits and components theory.
-* Electronic circuit design software \(Autodesk Eagle\)
-* Circuit board fabrication \(high precision CNC milling\) and SMD soldering
+* Electronic circuit design software.
+* Circuit board fabrication (high precision CNC milling) and SMD soldering
 * Input and Output devices and breadboard prototyping
-* Embedded programming \(Arduino Software\).
-* System integration \(electronics packaging and user interaction\).
-
-
-
-### Is this the right Studio for You?
-
-_Yes! If..._
-
-
-1. You want to learn technical skills that can be helpful for your future practice
-2. You want to work on a smaller design challenge with more focus on learning and applying  practical skills.
-3. You are comfortable in a teaching environment where you are left free to make mistakes and you have to fix problems by yourself
-4. You are comfortable using a mix of “top-down” and “bottom-up” learning approach:  learn a few basic components of the subject and apply them in practical situations to build knowledge step by step.
-5. You want to join a small group of digital fabricators and makers that will surely work over time while having a lot of fun
-
-**No technical background is required, the class is open to anyone.**
-
-
-
-For more information, send your questions at saveriosilli at tongji.edu.cn
-
-Check last year website: https://wikifactory.com/+fablabo/studio-5-2021/files/Students Folder
-
+* Embedded programming (Arduino Software).
+* System integration (electronics packaging and user interaction).
 
 
 ### Subject teaching objectives
@@ -90,13 +68,47 @@ Check last year website: https://wikifactory.com/+fablabo/studio-5-2021/files/St
 
 
 
-### Structure
+### Structure and Assignments
+The class is divided in three main challenges with several assignments to be completed and documented on Github. Please note that missing documentation on Github will greatly affect the score and possibly lead to failure of the class. 
 
-1 day - breadboard prototype and research
+## Challenges
 
-1 week - cnc pcb and rapid prototyping
+# Two days challenge: Arduino on a Breadboard
+Assemble an “Arduino on a breadboard”, with an ATMega328 microcontroller and a set of low-level electronic components. Describe the functions of each component and use USB-Serial Communication to upload test codes to the circuit from a computer.
 
-1 month - factory grade pcb and integrated system
+# Two weeks challenge: design and fabricate a PCB in the Fab Lab
+Learn the functions of the electronic design software, design a prototyping board with an ATMega328, export the files and generate the CAM manufacturing files. Use the CNC milling machine (Roland SRM20) to mill the board out of FR1 copper-plated phenolic paper. Solder the electronic components and upload the first code to the microcontroller to test the correct functionality of the PCB.
+
+# One month challenge: final project and Factory-made PCB
+Design and fabricate an electronic device that allows or facilitates new relationships between citizens and Nature. Redesign the PCB and send it to the Factory to fabricate it with industrial grade standards. Design and fabricate the device with digital fabrication equipment inside the Fab Lab. Describe how you designed each part of the system and prepare a poster and a video to explain the device functionalities.
+
+
+## Assignments
+
+# Hand-sketching components
+Make a hand-drawn sketch of the basic electronic components used on the Arduino on a Breadboard. 
+* Resistor
+* Capacitor
+* LED diode
+* Voltage Regulator (Transistor)
+* Crystal Oscillator
+* Microcontroller (ATMega328p)
+* Pin Headers and Jumper Wires
+
+Referring to the style of naturalistic illustrations, draw the sketch with sections, exploded and magnified views, including short descriptive text. Describe how components are made and what they are used for. Prepare a short lecture (3 minutes) explaining your findings to the rest of the class.
+
+# Input devices try-out
+Experience data collection with digital and analog input devices. Pick one sensor from a collection and try it out with the prototyping breadboard. Connect the sensor to the suitable pin-headers and test it with a program. Read the sensor’s data using the Serial Monitor. Repeat the exercise with at least two digital and two analog sensors. Understand how the sensor works and how data is collected and used.
+
+# Nature exploration
+Engage in the deep observation of the ecosystem, focusing on the perception of ecological relationships. Try to obtain a “change of scale”, analysing how the environment is perceived by all five senses. Look at relationships between elements rather than single entities. Discuss and describe your findings with sketches, maps, text, etc. This activity may be repeated a few times during the course.
+
+# Output devices try-out
+Experience how data collected by sensors are used to create an input/output system with output devices (actuators). Make an input/output system that resembles one of the ecological relationships of cause and effect observed during the Nature exploration. Choose an output device and try it out, connecting it to the prototyping circuit using suitable pin-headers and testing it with a program. To control the actuator, you must use input data gathered by a sensor. Pay attention to the power consumption of the actuator. Describe and document how your I/O system describes an ecological relationship.
+ 
+# Very Rapid prototyping
+Build the basic shape of a possible final project device. Use simple building materials found in the Fab Lab and waste materials collected from the garbage bin. The exercise time is limited to two hours. The goal is to produce a very basic physical prototype to understand and test its size, scale and usability and later to define which specific electronic components to use, how to manage power supplies and gather more information about the interaction with the environment.
+
 
 
 ![PCB for Designers LOGO](/pcb4d-logo.jpg)
