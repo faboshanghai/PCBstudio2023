@@ -39,7 +39,7 @@ Within the design challenge, students will learn the basic skills required to de
 
 
 
-** Studio Outcome **
+**Studio Outcome**
 
 The studio is part of NFSC research project, the outcome will help the research of Urban Nature and Ecological Cities, with the design of a device that can collect data and interact with the urban/natural environment, natural phenomena, citizens interactions, environmental data, etc.
 
@@ -56,7 +56,7 @@ The class is divided in three main challenges with several assignments to be com
 
 ### Challenges
 
-** Two days challenge: Arduino on a Breadboard **
+**Two days challenge: Arduino on a Breadboard**
 
 Assemble an “Arduino on a breadboard”, with an ATMega328 microcontroller and a set of low-level electronic components. Describe the functions of each component and use USB-Serial Communication to upload test codes to the circuit from a computer.
 
@@ -102,7 +102,7 @@ Build the basic shape of a possible final project device. Use simple building ma
 
 
 
-![PCB for Designers LOGO](/pcb4d-logo.jpg | width=800)
+![PCB for Designers LOGO](/pcb4d-logo.jpg)
 
 **TOPICS**
 
