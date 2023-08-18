@@ -102,7 +102,7 @@ Build the basic shape of a possible final project device. Use simple building ma
 
 
 
-![PCB for Designers LOGO](/pcb4d-logo.jpg)
+![PCB for Designers LOGO](./pcb4d-logo.jpg)
 
 **TOPICS**
 
@@ -122,4 +122,45 @@ Build the basic shape of a possible final project device. Use simple building ma
 * System integration
 * Project management
 * Design research through practice
+
+
+
+### Tutorials
+How to use MODS to create PCB Cutting toolpaths: http://pub.fabcloud.io/tutorials/week04_electronic_production/mods.html
+
+How to use the SRM20 Machine to cut PCB: http://pub.fabcloud.io/tutorials/week04_electronic_production/srm20_windows.html
+
+
+### Resources
+Guide to components:
+https://components101.com/
+
+EasyEDA PRO Design Software:
+https://pro.easyeda.com/editor
+
+Download Arduino:
+https://www.arduino.cc/en/software
+
+Atmega328 pinout
+https://camo.githubusercontent.com/21dd57865a9dfc93318d86dfb85310305b62a0dd0e41df6e274aa91721986828/68747470733a2f2f692e696d6775722e636f6d2f715849456368542e6a7067
+
+Arduino on a breadboard
+https://www.digikey.com/en/maker/projects/build-your-own-arduino-breadboard/f243b09293ae4e3189bda47a821bb97a
+
+PCB Factory
+https://jlcpcb.com/
+
+2022’s repository
+https://wikifactory.com/+fablabo/pcb-for-designers-2022 
+
+Github
+https://github.com/signup
+
+Research paper
+https://zenodo.org/record/8171650
+
+Short text about the deep ecology principles
+https://earthandhuman.org/deep-ecology-principles/
+
+Github documentation template repository: https://github.com/faboshanghai/PCBtemplate
 
