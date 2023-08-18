@@ -1,6 +1,6 @@
 # PCB for Designers - 2023
 
-### “Sensing Ecology”: Electronic Circuits and Programming from  Designers to Citizens
+## “Sensing Ecology”: Electronic Circuits and Programming from  Designers to Citizens
 
 ### 从设计师到市民，制作和编程电子电路
 
@@ -47,7 +47,7 @@ The final result is an input and output system with a programmed micro-controlle
 
 
 
-### TOPICS
+## TOPICS
 
 * Citizen science, urban nature, data collection.
 * Basic electronic circuits and components theory.
@@ -58,7 +58,7 @@ The final result is an input and output system with a programmed micro-controlle
 * System integration (electronics packaging and user interaction).
 
 
-### Subject teaching objectives
+## Subject teaching objectives
 
 * Electronic circuit prototyping, design, rapid manufacturing, factory manufacturing
 * Embedded programming
@@ -68,24 +68,24 @@ The final result is an input and output system with a programmed micro-controlle
 
 
 
-### Structure and Assignments
+## Structure and Assignments
 The class is divided in three main challenges with several assignments to be completed and documented on Github. Please note that missing documentation on Github will greatly affect the score and possibly lead to failure of the class. 
 
 ## Challenges
 
-# Two days challenge: Arduino on a Breadboard
+### Two days challenge: Arduino on a Breadboard
 Assemble an “Arduino on a breadboard”, with an ATMega328 microcontroller and a set of low-level electronic components. Describe the functions of each component and use USB-Serial Communication to upload test codes to the circuit from a computer.
 
-# Two weeks challenge: design and fabricate a PCB in the Fab Lab
+### Two weeks challenge: design and fabricate a PCB in the Fab Lab
 Learn the functions of the electronic design software, design a prototyping board with an ATMega328, export the files and generate the CAM manufacturing files. Use the CNC milling machine (Roland SRM20) to mill the board out of FR1 copper-plated phenolic paper. Solder the electronic components and upload the first code to the microcontroller to test the correct functionality of the PCB.
 
-# One month challenge: final project and Factory-made PCB
+### One month challenge: final project and Factory-made PCB
 Design and fabricate an electronic device that allows or facilitates new relationships between citizens and Nature. Redesign the PCB and send it to the Factory to fabricate it with industrial grade standards. Design and fabricate the device with digital fabrication equipment inside the Fab Lab. Describe how you designed each part of the system and prepare a poster and a video to explain the device functionalities.
 
 
 ## Assignments
 
-# Hand-sketching components
+### Hand-sketching components
 Make a hand-drawn sketch of the basic electronic components used on the Arduino on a Breadboard. 
 * Resistor
 * Capacitor
@@ -97,16 +97,16 @@ Make a hand-drawn sketch of the basic electronic components used on the Arduino 
 
 Referring to the style of naturalistic illustrations, draw the sketch with sections, exploded and magnified views, including short descriptive text. Describe how components are made and what they are used for. Prepare a short lecture (3 minutes) explaining your findings to the rest of the class.
 
-# Input devices try-out
+### Input devices try-out
 Experience data collection with digital and analog input devices. Pick one sensor from a collection and try it out with the prototyping breadboard. Connect the sensor to the suitable pin-headers and test it with a program. Read the sensor’s data using the Serial Monitor. Repeat the exercise with at least two digital and two analog sensors. Understand how the sensor works and how data is collected and used.
 
-# Nature exploration
+### Nature exploration
 Engage in the deep observation of the ecosystem, focusing on the perception of ecological relationships. Try to obtain a “change of scale”, analysing how the environment is perceived by all five senses. Look at relationships between elements rather than single entities. Discuss and describe your findings with sketches, maps, text, etc. This activity may be repeated a few times during the course.
 
-# Output devices try-out
+### Output devices try-out
 Experience how data collected by sensors are used to create an input/output system with output devices (actuators). Make an input/output system that resembles one of the ecological relationships of cause and effect observed during the Nature exploration. Choose an output device and try it out, connecting it to the prototyping circuit using suitable pin-headers and testing it with a program. To control the actuator, you must use input data gathered by a sensor. Pay attention to the power consumption of the actuator. Describe and document how your I/O system describes an ecological relationship.
  
-# Very Rapid prototyping
+### Very Rapid prototyping
 Build the basic shape of a possible final project device. Use simple building materials found in the Fab Lab and waste materials collected from the garbage bin. The exercise time is limited to two hours. The goal is to produce a very basic physical prototype to understand and test its size, scale and usability and later to define which specific electronic components to use, how to manage power supplies and gather more information about the interaction with the environment.
 
 
