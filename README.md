@@ -52,7 +52,7 @@ The final result is an input and output system with a programmed micro-controlle
 
 
 ## Structure and Assignments
-The class is divided in three main challenges with several assignments to be completed and documented on Github. Please note that missing documentation on Github will greatly affect the score and possibly lead to failure of the class. 
+The class is divided in three main challenges with several assignments to be completed and documented on Github. ***Please note that missing documentation on Github will greatly affect the score and possibly lead to failure of the class.*** 
 
 ### Challenges
 
