@@ -146,6 +146,8 @@ https://camo.githubusercontent.com/21dd57865a9dfc93318d86dfb85310305b62a0dd0e41d
 
 Arduino on a breadboard
 https://www.digikey.com/en/maker/projects/build-your-own-arduino-breadboard/f243b09293ae4e3189bda47a821bb97a
+or
+https://docs.arduino.cc/hacking/hardware/building-an-arduino-on-a-breadboard
 
 PCB Factory
 https://jlcpcb.com/
