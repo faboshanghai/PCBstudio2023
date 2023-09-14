@@ -144,10 +144,16 @@ https://www.arduino.cc/en/software
 Atmega328 pinout
 https://camo.githubusercontent.com/21dd57865a9dfc93318d86dfb85310305b62a0dd0e41df6e274aa91721986828/68747470733a2f2f692e696d6775722e636f6d2f715849456368542e6a7067
 
+Atmega Datasheet
+https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
+
 Arduino on a breadboard
 https://www.digikey.com/en/maker/projects/build-your-own-arduino-breadboard/f243b09293ae4e3189bda47a821bb97a
 or
 https://docs.arduino.cc/hacking/hardware/building-an-arduino-on-a-breadboard
+
+USB-Serial board drivers
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 
 PCB Factory
 https://jlcpcb.com/
