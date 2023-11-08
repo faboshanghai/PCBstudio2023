@@ -113,6 +113,7 @@ Deliverables:
 6. A presentation Video showing your device, the ecological relevance of the project, how it works, how it's made, why you designed it that way (1 minute long video, compressed size).
 7. The name of your device and a text description in english and chinese (about 100 words/150 characters), for exhibition purposes.
 8. A poster describing your project, A3 size, including the name and text description, your name, the name of the course, pictures of the device, pictures of the soldered pcb, any other interesting information or graphic elements you want to include. Deliver the file (pdf), optionally print it.
+9. Register an account on Xiumi.us and communicate the username (phone number) to Lu Wentao. You will be given access to a wechat post template that you can use to compose a wechat post about your final project.
 
 
 ![PCB for Designers LOGO](./pcb4d-logo.jpg)
