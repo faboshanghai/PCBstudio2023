@@ -100,6 +100,19 @@ Experience how data collected by sensors are used to create an input/output syst
 
 Build the basic shape of a possible final project device. Use simple building materials found in the Fab Lab and waste materials collected from the garbage bin. The exercise time is limited to two hours. The goal is to produce a very basic physical prototype to understand and test its size, scale and usability and later to define which specific electronic components to use, how to manage power supplies and gather more information about the interaction with the environment.
 
+**Final Project Requirements and Deliverables**
+
+Your device must include: a factory-made PCB, at least one input and one output device, suitable power supply. It should be complete and working without your presence. It should not require a personal computer to work.
+
+Deliverables:
+1. The device, fully working.
+2. One unsoldered PCB.
+3. Your complete documentation on Github, including the source code and link to the JLC page of your project.
+4. Include good quality pictures (less than 2MB size) of your device.
+5. Include interesting pictures of the work in progress.
+6. A presentation Video showing your device, the ecological relevance of the project, how it works, how it's made, why you designed it that way (1 minute long video, compressed size).
+7. The name of your device and a text description in english and chinese (about 100 words/150 characters), for exhibition purposes.
+8. A poster describing your project, A3 size, including the name and text description, your name, the name of the course, pictures of the device, pictures of the soldered pcb, any other interesting information or graphic elements you want to include. Deliver the file (pdf), optionally print it.
 
 
 ![PCB for Designers LOGO](./pcb4d-logo.jpg)
